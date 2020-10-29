@@ -6,6 +6,8 @@ function App() {
       hello
       <p>How are you?</p>
       <p>i am fine</p>
+      <p>Whats up?</p>
+      <p>nothing</p>
     </div>
   )
 }
